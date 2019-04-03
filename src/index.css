@@ -1,0 +1,22 @@
+body {
+	background: #fff;
+	color:#303030;
+}
+
+.remove-button {
+	height: -moz-fit-content;
+}
+
+.contact-name {
+	padding-right: 100px;
+}
+
+.contact-list {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.contact-number {
+	margin: 0;
+}
